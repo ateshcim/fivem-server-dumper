@@ -20,16 +20,12 @@ FiveM sunucularındaki tüm içerikleri (araçlar, kıyafetler, scriptler ve öz
 ## 🚀 Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak veya derlemek için terminalde şu adımları izleyin:
-
+1. Bağımlılıkları yükleyin:
+   npm install
 
    <img width="1146" height="892" alt="image" src="https://github.com/user-attachments/assets/3e9983f4-d749-4761-bb38-fe9304fa524a" />
    <img width="1150" height="898" alt="image" src="https://github.com/user-attachments/assets/8b4ba32f-6940-4d64-abf4-ff23f5d9e346" />
    <img width="1147" height="902" alt="image" src="https://github.com/user-attachments/assets/406d54b3-01c2-4c6b-a5f0-c3899a460eb4" />
-
-   
-1. Bağımlılıkları yükleyin:
-   ```bash
-   npm install
 
 
 
