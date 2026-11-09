@@ -23,6 +23,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak veya derlemek için terminalde 
 1. Bağımlılıkları yükleyin:
    npm install
 
+
+Discord : https://discord.gg/kYVNmcrWYm
+
    <img width="1146" height="892" alt="image" src="https://github.com/user-attachments/assets/3e9983f4-d749-4761-bb38-fe9304fa524a" />
    <img width="1150" height="898" alt="image" src="https://github.com/user-attachments/assets/8b4ba32f-6940-4d64-abf4-ff23f5d9e346" />
    <img width="1147" height="902" alt="image" src="https://github.com/user-attachments/assets/406d54b3-01c2-4c6b-a5f0-c3899a460eb4" />
